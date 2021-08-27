@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+   align-items: flex-start;
+   position: relative;
+}
+.wrapper{
+    transform: translateX(-100%);
+}
+
+.active{
+    transform: translateX(0);
+}
